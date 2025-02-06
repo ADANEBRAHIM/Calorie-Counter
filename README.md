@@ -12,9 +12,11 @@ Main Features:
 
 📊Track Surplus/Deficit: Calculate remaining calories after adding food and exercise entries.
 
+
 ⏰ Live site & Url status:
 
 https://calorie-counter7.netlify.app/
+
 
 This website makes use of:
 
